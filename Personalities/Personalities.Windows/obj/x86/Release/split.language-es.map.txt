@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-es"
+"ResourceDimensions"		"language-es-es"
+"ResourceDimensions"		"language-es"
+
+[Files]
+"W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\obj\x86\Release\split.language-es.pri"			"resources.pri"

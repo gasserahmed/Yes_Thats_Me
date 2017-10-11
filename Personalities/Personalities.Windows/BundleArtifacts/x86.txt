@@ -1,0 +1,2 @@
+MainPackage=W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x86\Release\Personalities.Windows_1.1.0.9_Bundle\Personalities.Windows_1.1.0.9_x86.appx
+SymbolPackage=W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\AppPackages\Personalities.Windows_1.1.0.9_Test\Personalities.Windows_1.1.0.9_x86.appxsym

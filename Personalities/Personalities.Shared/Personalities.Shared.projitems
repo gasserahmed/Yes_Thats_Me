@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>b55cf6d1-1b8d-486c-80ec-d8b1e9f33b81</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Personalities</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)DataModel\SampleDataSource.cs" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\architect.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\champion.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\commander.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\composer.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\counselor.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\craftsman.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ENFJ.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ENFP.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ENTJ.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ENTP.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ESFJ.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ESFP.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ESTJ.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ESTP-dynamo.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ESTP.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\healer.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\INFJ.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\INFP.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\INTJ.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\INTP.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ISFJ.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ISFP.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\istj-judging.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ISTJ.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ISTP.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\mastermind.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\performer.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\protector.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\provider.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\P_logo.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\supervisor.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\teacher.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\visionary.png" />
+    <Content Include="$(MSBuildThisFileDirectory)DataModel\SampleData.json" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\LightGray.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\MediumGray.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DarkGray.png" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\NavigationHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\RelayCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\SuspensionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\ObservableDictionary.cs" />
+    <PRIResource Include="$(MSBuildThisFileDirectory)Strings\en-US\Resources.resw" />
+  </ItemGroup>
+</Project>

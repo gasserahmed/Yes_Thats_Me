@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-quc-latn"
+"ResourceDimensions"		"language-qut-gt"
+
+[Files]
+"W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\obj\ARM\Release\split.language-quc-latn.pri"			"resources.pri"

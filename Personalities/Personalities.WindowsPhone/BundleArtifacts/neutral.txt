@@ -1,0 +1,4 @@
+MainPackage=W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.WindowsPhone\bin\Release\Personalities.WindowsPhone_1.1.0.7_Bundle\Personalities.WindowsPhone_1.1.0.7_AnyCPU.appx
+SymbolPackage=W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.WindowsPhone\AppPackages\Personalities.WindowsPhone_1.1.0.7_Test\Personalities.WindowsPhone_1.1.0.7_AnyCPU.appxsym
+ResourcePack=W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.WindowsPhone\bin\Release\Personalities.WindowsPhone_1.1.0.7_Bundle\Personalities.WindowsPhone_1.1.0.7_scale-100.appx
+ResourcePack=W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.WindowsPhone\bin\Release\Personalities.WindowsPhone_1.1.0.7_Bundle\Personalities.WindowsPhone_1.1.0.7_scale-140.appx

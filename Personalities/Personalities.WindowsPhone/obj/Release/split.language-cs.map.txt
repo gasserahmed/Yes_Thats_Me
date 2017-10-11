@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-cs"
+"ResourceDimensions"		"language-cs-cz"
+
+[Files]
+"W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.WindowsPhone\obj\Release\split.language-cs.pri"			"resources.pri"

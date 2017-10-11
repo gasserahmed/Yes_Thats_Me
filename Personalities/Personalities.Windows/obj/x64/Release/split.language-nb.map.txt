@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-nb"
+"ResourceDimensions"		"language-nb"
+
+[Files]
+"W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\obj\x64\Release\split.language-nb.pri"			"resources.pri"

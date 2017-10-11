@@ -1,0 +1,14 @@
+'Yes,That's Me' is an application that helps you in knowing your own personality in an interesting way.
+
+Developed By: Gasser Montaser Saleh
+Faculty: Faculty of Engineering
+University: Alexandria University
+
+Features:
+.Personality Test
+.Sharing Test Results
+.Personalities Guide
+.Personality Improvement
+.Keyword Search
+.Elegant UI
+

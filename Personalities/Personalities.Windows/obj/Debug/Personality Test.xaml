@@ -1,0 +1,85 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="Personalities.Personality_Test"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Personalities"
+    xmlns:common="using:Personalities.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">My Application</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Background="#FFF" x:Name="personality_test_page">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid Background="#a6d5fa">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="backButton" Margin="39,59,39,0"  Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button"/>
+            <TextBlock Text="Personality Test" Foreground="#FFF" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
+        </Grid>
+        <Viewbox Grid.Row="1" Stretch="Uniform" Grid.RowSpan="2">
+            <FlipView  x:Name="test_flipview" Background="#FFF" Foreground="#FFFFFF" Height="500" Width="1750"  >
+                <TextBlock Width="1500" Height="120" TextWrapping="Wrap" TextAlignment="Center" FontSize="50"  Text="You find it easy to introduce yourself to other people" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                <TextBlock Width="1200" Height="120" TextWrapping="Wrap" TextAlignment="Center" FontSize="50"  Text="A logical decision is always the best, even when it hurts someone's feelings" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock FontSize="50" Height="120" TextWrapping="Wrap"  Width="1200" TextAlignment="Center" Text="You try to respond to your e-mails as soon as possible and cannot stand a messy inbox" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="You strongly dislike phone calls" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="You find it easy to stay relaxed and focused even when there is some pressure" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="You often get so lost in thoughts that you ignore or forget your surroundings" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="Deadlines do not stress you out" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="Being adaptable is more important to you than being organized" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="Emotional movies can easily make you sad" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="Your home and work environments are quite tidy" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="You often feel as if you have to justify yourself to other people" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1500" TextWrapping="Wrap" TextAlignment="Center" Text="You like to leave matters undecided for as long as possible as there may be better options down the road" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="You do not mind being at the center of attention" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="You would rather call yourself pragmatic than visionary" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock FontSize="50" Height="120" Width="1200" TextWrapping="Wrap" TextAlignment="Center" Text="You rarely get mood swings" Foreground="#8d8d8d" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+            </FlipView>
+        </Viewbox>
+        <Button x:ConnectionId='1' x:Name="BtnYes" FontFamily="Segoe UI Symbol" FontSize="50" Content="&#xE19F;"                Grid.Row="1" Foreground="#000" Background="AliceBlue"  BorderThickness="10" BorderBrush="Azure" HorizontalAlignment="Right" Margin="0,335,658,107"/>
+        <Button x:ConnectionId='2' x:Name="BtnNo"  FontFamily="Segoe UI Symbol" FontSize="50" Content="&#xE19E;"               Grid.Row="1" Foreground="#000" Background="AliceBlue" BorderThickness="10" BorderBrush="Azure" HorizontalAlignment="Left" Margin="677,335,0,107"/>
+        <Popup  Grid.Row="1" x:Name="popMessage" HorizontalAlignment="Center"   Height="400" Width="500" VerticalAlignment="Center">
+            <Border BorderBrush="LightGray" BorderThickness="2">
+                <Grid Height="250" Width="500" Background="#ee3344">
+                    <TextBlock x:Name="your_personality" Text="Your Personality is:" HorizontalAlignment="Left"  TextWrapping="Wrap"  VerticalAlignment="Top"  FontSize="25" Margin="10,59,0,0"/>
+                    <TextBlock x:Name="your_result" HorizontalAlignment="Center"  TextWrapping="Wrap"  VerticalAlignment="Center"  FontSize="40"/>
+                    <Button x:ConnectionId='3' x:Name="btnHome" Content="&#xE10F;" FontFamily="Segoe UI Symbol"  HorizontalAlignment="Center"  VerticalAlignment="Bottom" Width="100" Height="48" FontSize="24"                       />
+                </Grid>
+            </Border>
+        </Popup>
+    </Grid>
+</Page>
+
+

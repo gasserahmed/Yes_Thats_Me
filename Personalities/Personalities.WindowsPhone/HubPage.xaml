@@ -1,0 +1,265 @@
+﻿<Page
+    x:Class="Personalities.HubPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Personalities"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    d:DataContext="{Binding Source={d:DesignData Source=../Personalities.Shared/DataModel/SampleData.json, Type=data:SampleDataSource}}"
+    xmlns:data="using:Personalities.Data"
+    mc:Ignorable="d"
+    xmlns:ad="using:AdDuplex.Universal.Controls.WinPhone.XAML"  
+   >
+
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.ThemeDictionaries>
+                <ResourceDictionary x:Key="Default">
+                    <ImageBrush x:Key="HubBackgroundImageBrush" ImageSource="Assets/HubBackground.png"/>
+                </ResourceDictionary>
+                <ResourceDictionary x:Key="HighContrast">
+                    <ImageBrush x:Key="HubBackgroundImageBrush" ImageSource="{x:Null}"/>
+                </ResourceDictionary>
+            </ResourceDictionary.ThemeDictionaries>
+
+            <DataTemplate x:Key="HubSectionHeaderTemplate">
+                <TextBlock Margin="0,0,0,-9.5" Text="{Binding}"/>
+            </DataTemplate>
+
+            <!-- Grid-appropriate item template as seen in section 2 -->
+            <DataTemplate x:Key="Standard200x180TileItemTemplate">
+                <Grid Margin="0,0,9.5,9.5" Background="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}">
+                    <Image Source="{Binding ImagePath}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}" Height="138.5" Width="138.5"/>
+                    <TextBlock Text="{Binding Title}" VerticalAlignment="Bottom" Margin="9.5,0,0,6.5" Style="{ThemeResource BaseTextBlockStyle}"/>
+                </Grid>
+            </DataTemplate>
+
+            <DataTemplate x:Key="StandardTripleLineItemTemplate">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border Background="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}" Margin="0,9.5,0,0" Grid.Column="0" HorizontalAlignment="Left">
+                        <Image Source="{Binding ImagePath}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}" Height="79" Width="79"/>
+                    </Border>
+                    <StackPanel Grid.Column="1" Margin="14.5,0,0,0">
+                        <TextBlock Text="{Binding Title}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                        <TextBlock Text="{Binding Description}" Style="{ThemeResource ListViewItemContentTextBlockStyle}" Foreground="{ThemeResource PhoneMidBrush}" />
+                        <TextBlock Text="{Binding Subtitle}" Style="{ThemeResource ListViewItemSubheaderTextBlockStyle}" />
+                    </StackPanel>
+                </Grid>
+            </DataTemplate>
+
+            <DataTemplate x:Key="StandardDoubleLineItemTemplate">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border Background="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}" Margin="0,9.5,0,0" Grid.Column="0" HorizontalAlignment="Left">
+                        <Image Source="{Binding ImagePath}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}" Height="79" Width="79"/>
+                    </Border>
+                    <StackPanel Grid.Column="1" Margin="14.5,0,0,0">
+                        <TextBlock Text="{Binding Title}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                        <TextBlock Text="{Binding Subtitle}" Style="{ThemeResource ListViewItemSubheaderTextBlockStyle}"/>
+                    </StackPanel>
+                </Grid>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Page.Resources>
+
+    <Grid x:Name="LayoutRoot">
+        <Hub   Header="Yes,That's Me" FontSize="12" Foreground="#00394c" Background="#FFF">
+            <HubSection Width="390" Header="Types" Background="#FFF" >
+                <DataTemplate>
+                    <Grid >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="0.01*"/>
+                            <RowDefinition Height="0.17*"/>
+                        </Grid.RowDefinitions>
+                        <Viewbox Stretch="None" Width="350" Grid.Row="0" >
+                            <Grid Height="370" Width="350" >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="0.05*"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="0.05*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <GridView ScrollViewer.VerticalScrollMode="Disabled" Background="AliceBlue" Tapped="infp" Grid.Row="0" Grid.Column="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/infp.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView ScrollViewer.VerticalScrollMode="Disabled" Background="AliceBlue" Tapped="infj" Grid.Row="0" Grid.Column="2" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/infj.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView ScrollViewer.VerticalScrollMode="Disabled" Background="AliceBlue" Tapped="intp" Grid.Row="2" Grid.Column="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/intp.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView Background="AliceBlue" ScrollViewer.VerticalScrollMode="Disabled" Tapped="intj" Grid.Row="2" Grid.Column="2" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/intj.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                            </Grid>
+                        </Viewbox>
+
+                    </Grid>
+                </DataTemplate>
+            </HubSection>
+
+            <HubSection Width="390" Header="Types" Background="#FFF" >
+                <DataTemplate>
+                    <Grid >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="0.01*"/>
+                            <RowDefinition Height="0.17*"/>
+                        </Grid.RowDefinitions>
+                        <Viewbox Stretch="None" Width="350" Grid.Row="0" >
+                            <Grid Height="370" Width="350" >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="0.05*"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="0.05*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <GridView ScrollViewer.VerticalScrollMode="Disabled" Background="AliceBlue" Tapped="isfp" Grid.Row="0" Grid.Column="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/isfp.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView Background="AliceBlue" Tapped="isfj" ScrollViewer.VerticalScrollMode="Disabled" Grid.Row="0" Grid.Column="2" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/isfj.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView Background="AliceBlue" Tapped="istp" Grid.Row="2" Grid.Column="0" ScrollViewer.VerticalScrollMode="Disabled" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/istp.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView Background="AliceBlue" Tapped="istj" Grid.Row="2" Grid.Column="2" ScrollViewer.VerticalScrollMode="Disabled" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/istj.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                            </Grid>
+                        </Viewbox>
+
+                       
+                    </Grid>
+                </DataTemplate>
+            </HubSection>
+            <HubSection Width="390" Header="Types" Background="#FFF" >
+                <DataTemplate>
+                    <Grid >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="0.01*"/>
+                            <RowDefinition Height="0.17*"/>
+                        </Grid.RowDefinitions>
+                        <Viewbox Stretch="None" Width="350" Grid.Row="0" >
+                            <Grid Height="370" Width="350" >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="0.05*"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="0.05*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <GridView ScrollViewer.VerticalScrollMode="Disabled" Background="AliceBlue" Tapped="enfp" Grid.Row="0" Grid.Column="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/enfp.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView Background="AliceBlue" Tapped="enfj" ScrollViewer.VerticalScrollMode="Disabled" Grid.Row="0" Grid.Column="2" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/enfj.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView Background="AliceBlue" Tapped="entp" Grid.Row="2" Grid.Column="0" ScrollViewer.VerticalScrollMode="Disabled" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/entp.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView Background="AliceBlue" Tapped="entj" Grid.Row="2" Grid.Column="2" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollMode="Disabled" SelectionMode="None">
+                                    <Image Width="190" Source="/Assets/entj.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                            </Grid>
+                        </Viewbox>
+
+                       
+                    </Grid>
+                </DataTemplate>
+            </HubSection>
+            <HubSection Width="390" Header="Types" Background="#FFF" >
+                <DataTemplate>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="0.01*"/>
+                            <RowDefinition Height="0.17*"/>
+                        </Grid.RowDefinitions>
+                        <Viewbox Height="370" Stretch="None" Width="350" Grid.Row="0">
+                            <Grid Height="370" Width="350">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="0.05*"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="0.05*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <GridView Background="AliceBlue" Tapped="esfp" Grid.Row="0" Grid.Column="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None" ScrollViewer.VerticalScrollMode="Disabled">
+                                    <Image Width="190" Source="/Assets/esfp.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView Background="AliceBlue" Tapped="esfj" Grid.Row="0" Grid.Column="2" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None" ScrollViewer.VerticalScrollMode="Disabled">
+                                    <Image Width="190" Source="/Assets/esfj.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView Background="AliceBlue" Tapped="estp" Grid.Row="2" Grid.Column="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None" ScrollViewer.VerticalScrollMode="Disabled">
+                                    <Image Width="190" Source="/Assets/estp.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                                <GridView Background="AliceBlue" Tapped="estj" Grid.Row="2" Grid.Column="2" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None" ScrollViewer.VerticalScrollMode="Disabled">
+                                    <Image Width="190" Source="/Assets/estj.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Height="187"  />
+                                </GridView>
+                            </Grid>
+                        </Viewbox>
+                       
+                    </Grid>
+                </DataTemplate>
+            </HubSection>
+
+
+
+            <HubSection  Header="Personality Test" Background="#FFF" Width="394">
+                <DataTemplate>
+                    <Viewbox Stretch="None" >
+                        <Grid >
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <TextBlock HorizontalAlignment="Left" Foreground="#aeaeae"  Text="Get a concrete, accurate description of who you are and why you do things the way you do" FontSize="37" TextWrapping="Wrap" Width="350" Height="230" Grid.Row="0"/>
+                            <Button  Grid.Row="1" FontFamily="Segoe UI Symbol" FontSize="30" Content="Take the Test!" Foreground="#aeaeae" Background="AliceBlue" Click="Test"/>
+                       
+                        </Grid>
+                    </Viewbox>
+                </DataTemplate>
+            </HubSection>
+        </Hub>
+        <ad:AdControl x:Name="adDuplexAd"
+                AppId="135111"
+                Width="350"
+                VerticalAlignment="Bottom"
+                Canvas.ZIndex="999"
+                />
+
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar Height="50" Background="#FF0095DA" IsOpen="False">
+            <AppBarButton Name="About" Label="About" Icon="Important" Click="About_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

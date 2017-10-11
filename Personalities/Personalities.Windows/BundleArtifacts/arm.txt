@@ -1,0 +1,4 @@
+MainPackage=W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\ARM\Release\Personalities.Windows_1.1.0.9_Bundle\Personalities.Windows_1.1.0.9_ARM.appx
+SymbolPackage=W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\AppPackages\Personalities.Windows_1.1.0.9_Test\Personalities.Windows_1.1.0.9_ARM.appxsym
+ResourcePack=W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\ARM\Release\Personalities.Windows_1.1.0.9_Bundle\Personalities.Windows_1.1.0.9_scale-140.appx
+ResourcePack=W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\ARM\Release\Personalities.Windows_1.1.0.9_Bundle\Personalities.Windows_1.1.0.9_scale-180.appx

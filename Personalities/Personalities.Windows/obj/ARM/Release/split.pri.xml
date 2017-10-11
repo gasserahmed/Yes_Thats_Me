@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="47309GasserMontaser.YesThatsMe" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-GB, EN-US</Language>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="About.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/About.xbf">
+				<Candidate type="Path">
+					<Value>About.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="enfj.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/enfj.xbf">
+				<Candidate type="Path">
+					<Value>enfj.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="enfp.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/enfp.xbf">
+				<Candidate type="Path">
+					<Value>enfp.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="entj.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/entj.xbf">
+				<Candidate type="Path">
+					<Value>entj.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="entp.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/entp.xbf">
+				<Candidate type="Path">
+					<Value>entp.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="esfj.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/esfj.xbf">
+				<Candidate type="Path">
+					<Value>esfj.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="esfp.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/esfp.xbf">
+				<Candidate type="Path">
+					<Value>esfp.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="estj.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/estj.xbf">
+				<Candidate type="Path">
+					<Value>estj.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="estp.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/estp.xbf">
+				<Candidate type="Path">
+					<Value>estp.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubPage.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/HubPage.xbf">
+				<Candidate type="Path">
+					<Value>HubPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="infj.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/infj.xbf">
+				<Candidate type="Path">
+					<Value>infj.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="infp.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/infp.xbf">
+				<Candidate type="Path">
+					<Value>infp.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="intj.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/intj.xbf">
+				<Candidate type="Path">
+					<Value>intj.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="intp.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/intp.xbf">
+				<Candidate type="Path">
+					<Value>intp.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="isfj.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/isfj.xbf">
+				<Candidate type="Path">
+					<Value>isfj.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="isfp.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/isfp.xbf">
+				<Candidate type="Path">
+					<Value>isfp.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="istj.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/istj.xbf">
+				<Candidate type="Path">
+					<Value>istj.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="istp.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/istp.xbf">
+				<Candidate type="Path">
+					<Value>istp.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Personalities.Windows.xr.xml" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Personalities.Windows.xr.xml">
+				<Candidate type="Path">
+					<Value>Personalities.Windows.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Personality Test.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Personality%20Test.xbf">
+				<Candidate type="Path">
+					<Value>Personality Test.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="AdDuplex.Universal.Controls.Win.XAML">
+				<NamedResource name="AdDuplex.Universal.Controls.Win.XAML.xr.xml" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/AdDuplex.Universal.Controls.Win.XAML/AdDuplex.Universal.Controls.Win.XAML.xr.xml">
+					<Candidate type="Path">
+						<Value>AdDuplex.Universal.Controls.Win.XAML\AdDuplex.Universal.Controls.Win.XAML.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/AdDuplex.Universal.Controls.Win.XAML/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="architect.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/architect.png">
+					<Candidate type="Path">
+						<Value>Assets\architect.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="champion.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/champion.png">
+					<Candidate type="Path">
+						<Value>Assets\champion.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="commander.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/commander.png">
+					<Candidate type="Path">
+						<Value>Assets\commander.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="composer.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/composer.png">
+					<Candidate type="Path">
+						<Value>Assets\composer.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="counselor.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/counselor.png">
+					<Candidate type="Path">
+						<Value>Assets\counselor.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="craftsman.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/craftsman.png">
+					<Candidate type="Path">
+						<Value>Assets\craftsman.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DarkGray.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/DarkGray.png">
+					<Candidate type="Path">
+						<Value>Assets\DarkGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ENFJ.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ENFJ.png">
+					<Candidate type="Path">
+						<Value>Assets\ENFJ.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ENFP.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ENFP.png">
+					<Candidate type="Path">
+						<Value>Assets\ENFP.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ENTJ.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ENTJ.png">
+					<Candidate type="Path">
+						<Value>Assets\ENTJ.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ENTP.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ENTP.png">
+					<Candidate type="Path">
+						<Value>Assets\ENTP.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ESFJ.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ESFJ.png">
+					<Candidate type="Path">
+						<Value>Assets\ESFJ.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ESFP.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ESFP.png">
+					<Candidate type="Path">
+						<Value>Assets\ESFP.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ESTJ.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ESTJ.png">
+					<Candidate type="Path">
+						<Value>Assets\ESTJ.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ESTP-dynamo.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ESTP-dynamo.png">
+					<Candidate type="Path">
+						<Value>Assets\ESTP-dynamo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ESTP.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ESTP.png">
+					<Candidate type="Path">
+						<Value>Assets\ESTP.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="healer.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/healer.png">
+					<Candidate type="Path">
+						<Value>Assets\healer.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="INFJ.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/INFJ.png">
+					<Candidate type="Path">
+						<Value>Assets\INFJ.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="INFP.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/INFP.png">
+					<Candidate type="Path">
+						<Value>Assets\INFP.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="INTJ.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/INTJ.png">
+					<Candidate type="Path">
+						<Value>Assets\INTJ.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="INTP.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/INTP.png">
+					<Candidate type="Path">
+						<Value>Assets\INTP.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ISFJ.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ISFJ.png">
+					<Candidate type="Path">
+						<Value>Assets\ISFJ.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ISFP.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ISFP.png">
+					<Candidate type="Path">
+						<Value>Assets\ISFP.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="istj-judging.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/istj-judging.png">
+					<Candidate type="Path">
+						<Value>Assets\istj-judging.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ISTJ.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ISTJ.png">
+					<Candidate type="Path">
+						<Value>Assets\ISTJ.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ISTP.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/ISTP.png">
+					<Candidate type="Path">
+						<Value>Assets\ISTP.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LightGray.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/LightGray.png">
+					<Candidate type="Path">
+						<Value>Assets\LightGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mastermind.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/mastermind.png">
+					<Candidate type="Path">
+						<Value>Assets\mastermind.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MediumGray.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/MediumGray.png">
+					<Candidate type="Path">
+						<Value>Assets\MediumGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="performer.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/performer.png">
+					<Candidate type="Path">
+						<Value>Assets\performer.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="protector.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/protector.png">
+					<Candidate type="Path">
+						<Value>Assets\protector.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="provider.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/provider.png">
+					<Candidate type="Path">
+						<Value>Assets\provider.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="P_logo.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/P_logo.png">
+					<Candidate type="Path">
+						<Value>Assets\P_logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="supervisor.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/supervisor.png">
+					<Candidate type="Path">
+						<Value>Assets\supervisor.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="teacher.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/teacher.png">
+					<Candidate type="Path">
+						<Value>Assets\teacher.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="visionary.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/visionary.png">
+					<Candidate type="Path">
+						<Value>Assets\visionary.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Assembly logo">
+					<NamedResource name="About background.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Assembly%20logo/About%20background.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\About background.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Assembly 5-1.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Assembly%20logo/Assembly%205-1.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Assembly 5-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Blue.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Assembly%20logo/Blue.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Blue.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FBL.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Assembly%20logo/FBL.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\FBL.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon 1.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Assembly%20logo/Logo%20Icon%201.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon 1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Assembly%20logo/Logo%20Icon.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon2.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Assembly%20logo/Logo%20Icon2.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TL.png" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Assets/Assembly%20logo/TL.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\TL.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DataModel">
+				<NamedResource name="SampleData.json" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/DataModel/SampleData.json">
+					<Candidate type="Path">
+						<Value>DataModel\SampleData.json</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.Advertising.WinRT.UI">
+				<NamedResource name="AdSettingsFlyout.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Microsoft.Advertising.WinRT.UI/AdSettingsFlyout.xbf">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bootstrap.html" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Microsoft.Advertising.WinRT.UI/bootstrap.html">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\bootstrap.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ormma.js" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Microsoft.Advertising.WinRT.UI/ormma.js">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\ormma.js</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/Microsoft.Advertising.WinRT.UI/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftAdvertising">
+				<ResourceMapSubtree name="IntelliSense">
+					<NamedResource name="AdErrorEventArgs.xml" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/MicrosoftAdvertising/IntelliSense/AdErrorEventArgs.xml">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>MicrosoftAdvertising\IntelliSense\en-US\AdErrorEventArgs.xml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ErrorCode.xml" uri="ms-resource://47309GasserMontaser.YesThatsMe/Files/MicrosoftAdvertising/IntelliSense/ErrorCode.xml">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>MicrosoftAdvertising\IntelliSense\en-US\ErrorCode.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="MicrosoftAdvertising">
+			<ResourceMapSubtree name="ExceptionMessages">
+				<NamedResource name="AdGameComponentAlreadyInitialized" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/AdGameComponentAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has already been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdGameComponentHasNotBeenInitialized" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/AdGameComponentHasNotBeenInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdManagerNotInitialized" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/AdManagerNotInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdMangerAlreadyInitialized" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/AdMangerAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdAlreadySet" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/AdUnitIdAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdUnitId has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdIsRequired" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/AdUnitIdIsRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>adUnitId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AllActionsMalformed" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/AllActionsMalformed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationIdIsRequired" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/ApplicationIdIsRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>applicationId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AssetNodeIsSingleEntry" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/AssetNodeIsSingleEntry">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutoRefreshStateAlreadySet" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/AutoRefreshStateAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh state has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BannerInformationNotFound" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/BannerInformationNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdControlUninitialized" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdControlUninitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is uninitialised.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdIsEngaged" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdIsEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenNotVisible" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenNotVisible">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenSuspended" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenSuspended">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is suspended.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CapabilitiesMissing" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/CapabilitiesMissing">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithoutReferralNotWellFormed" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithoutReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithReferralNotWellFormed" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CouldNotFindProperty" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/CouldNotFindProperty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DecodingEscapedCharactersFailed" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/DecodingEscapedCharactersFailed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DidNotParseToEnd" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/DidNotParseToEnd">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExtractedPropertyNotAString" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/ExtractedPropertyNotAString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontDoesNotSupportCharacter" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/FontDoesNotSupportCharacter">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GeoDataNotAvailable" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/GeoDataNotAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IncompleteInit" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/IncompleteInit">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InternalError" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/InternalError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Internal error encountered.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAction" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/InvalidAction">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid action param: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidDataFormat" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/InvalidDataFormat">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidJsonResponse" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/InvalidJsonResponse">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLocation" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/InvalidLocation">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Location value is out of range.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidParameterMissingItemSeparator" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/InvalidParameterMissingItemSeparator">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefresh" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/InvalidRefresh">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidSize" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/InvalidSize">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonDoesntStartWithObjectOrArray" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/JsonDoesntStartWithObjectOrArray">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonIntegerParseOverflow" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/JsonIntegerParseOverflow">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonNodeIsNotADictionary" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/JsonNodeIsNotADictionary">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonResponseTypeInvalid" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/JsonResponseTypeInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonStringValueNotWellFormed" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/JsonStringValueNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LoadContentNotCalled" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/LoadContentNotCalled">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>LoadContent has not been called before Update/Draw.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonPremiumWithNoApplicationId" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/NonPremiumWithNoApplicationId">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ObjectShouldHaveNoElements" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/ObjectShouldHaveNoElements">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterIsLessThanPermittedLength" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/ParameterIsLessThanPermittedLength">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/ParameterNullOrEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStackNotEmpty" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/ParseStackNotEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStringNotANumber" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/ParseStringNotANumber">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RectangleHeightNotSufficient" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/RectangleHeightNotSufficient">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshCalledToSoon" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/RefreshCalledToSoon">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called more than once every {0} seconds.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileEngaged" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/RefreshWhileEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Manual refresh not permitted while ad is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileRequestInProgress" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/RefreshWhileRequestInProgress">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh was triggered but another request is already in progress.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RequestDataHasNullDataItem" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/RequestDataHasNullDataItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>httpRequestData or its URL is null.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichMediaInfoNotFound" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/RichMediaInfoNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StringContainsInvalidEscapeSequence" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/StringContainsInvalidEscapeSequence">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextAdTitleNotFound" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/TextAdTitleNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TooManyImpressionUrls" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/TooManyImpressionUrls">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnableToFitText" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/UnableToFitText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unable to fit text in the given space.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnicodeCharacterTruncated" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/UnicodeCharacterTruncated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownAdType" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/UnknownAdType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownJsonToken" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/UnknownJsonToken">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownRichMediaMimeType" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/ExceptionMessages/UnknownRichMediaMimeType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown rich media mime type recieved: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="UIStrings">
+				<NamedResource name="AdSettings_CommandText" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_CommandText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message1" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message1">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You are currently opted out of personalized advertising from Microsoft. Click</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>You have opted out of personalised advertising from Microsoft. Click </Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Tha thu a' diùltadh sanasachd phearsantaichte o Microsoft an-dràsta fhèin. Briog </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message2" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message2">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to learn more about your choices.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value> to learn more about your choices.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value> airson barrachd fiosrachaidh air na roghainnean.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message_Here" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message_Here">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>here</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>here</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>an-seo</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_Header" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Let Microsoft Advertising use my information to personalize ads in this app.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Let Microsoft Advertising use my information to personalise ads in this app.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Cleachdaidh Microsoft Advertising am fiosrachadh agam ach am faigh mi sanasachd phearsantaichte san aplacaid seo.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_Off" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Off">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_On" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_On">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Tha</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_Privacy" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Privacy">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Privacy Statement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Privacy Statement</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Aithris na prìobhaideachd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SectionName" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SectionName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertising settings</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertising Settings</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Roghainnean na sanasachd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt1" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt1">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You are currently signed out.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>You are currently signed out. </Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil thu clàraichte a-staigh an-dràsta fhèin. </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt2" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt2">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to enable personalized advertising in this app.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value> to enable personalised advertising in this app.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value> airson sanasachd phearsantaichte a chur an comas san aplacaid seo.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignIn" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignIn">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign-in</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Sign in</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Clàraich a-steach</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignOut" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignOut">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign-out</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Sign out</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Clàraich a-mach</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_StatusUnknown_Message" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_StatusUnknown_Message">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Your Microsoft account information is currently unavailable.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Your Microsoft account information is currently unavailable.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil fiosrachadh a' chunntais Microsoft agad ri làimh an-dràsta fhèin.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertising</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertising</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Sanasachd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="Group1Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group1Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group1Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group1Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group2Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group2Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 2</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group2Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group2Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 2</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group3Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group3Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group3Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group3Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group4Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group4Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 4</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group4Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group4Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 4</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group5Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group5Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 5</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group5Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group5Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 5</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group6Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group6Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 6</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group6Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Group6Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 6</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GroupDescription" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/GroupDescription">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection1" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/HubSection1">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SECTION 1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection2" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/HubSection2">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SECTION 2</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection3" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/HubSection3">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SECTION 3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection4" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/HubSection4">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SECTION 4</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection5" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/HubSection5">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SECTION 5</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item1Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item1Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item1Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item1Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item2Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item2Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 2</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item2Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item2Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 2</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item3Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item3Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item3Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item3Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item4Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item4Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 4</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item4Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item4Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 4</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item5Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item5Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 5</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item5Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item5Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 5</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item6Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item6Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 6</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item6Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item6Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 6</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item7Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item7Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 7</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item7Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item7Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 7</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item8Subtitle" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item8Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 8</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item8Title" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Item8Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 8</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemContent" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/ItemContent">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Curabitur class aliquam vestibulum nam curae maecenas sed integer cras phasellus suspendisse quisque donec dis praesent accumsan bibendum pellentesque condimentum adipiscing etiam consequat vivamus dictumst aliquam duis convallis scelerisque est parturient ullamcorper aliquet fusce suspendisse nunc hac eleifend amet blandit facilisi condimentum commodo scelerisque faucibus aenean ullamcorper ante mauris dignissim consectetuer nullam lorem vestibulum habitant conubia elementum pellentesque morbi facilisis arcu sollicitudin diam cubilia aptent vestibulum auctor eget dapibus pellentesque inceptos leo egestas interdum nulla consectetuer suspendisse adipiscing pellentesque proin lobortis sollicitudin augue elit mus congue fermentum parturient fringilla euismod feugiat</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemContentFormat" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/ItemContentFormat">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Content: {0}\n\n{0}\n\n{0}\n\n{0}\n\n{0}\n\n{0}\n\n{0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemDescription" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/ItemDescription">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationFailedExceptionMessage" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/NavigationFailedExceptionMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Navigation failed.</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="DescriptionHeader">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/DescriptionHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Description text:</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Header">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Header/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>application name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Hub">
+				<NamedResource name="Header" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Hub/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>application name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ItemSubTitle">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/ItemSubTitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Item Sub Title</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ItemTitle">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/ItemTitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Item Title</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="LongText">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/LongText/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section1DescriptionText">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Section1DescriptionText/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section1Header">
+				<NamedResource name="Header" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Section1Header/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Section 1</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section1Subtitle">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Section1Subtitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Lorem ipsum dolor sit nonumy sed consectetuer ising elit, sed diam</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section2Header">
+				<NamedResource name="Header" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Section2Header/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Section 2</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section2UnderTitle">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Section2UnderTitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Quisque in porta lorem dolor amet sed consectetuer ising elit, sed diam non my nibh uis mod wisi quip.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section3Header">
+				<NamedResource name="Header" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Section3Header/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Section 3</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section3Subtitle">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Section3Subtitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Section subtitle</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section4Header">
+				<NamedResource name="Header" uri="ms-resource://47309GasserMontaser.YesThatsMe/Resources/Section4Header/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Section 4</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

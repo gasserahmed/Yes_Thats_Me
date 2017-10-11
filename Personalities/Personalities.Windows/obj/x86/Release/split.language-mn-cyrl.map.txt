@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-mn-cyrl"
+"ResourceDimensions"		"language-mn-mn"
+
+[Files]
+"W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\obj\x86\Release\split.language-mn-cyrl.pri"			"resources.pri"

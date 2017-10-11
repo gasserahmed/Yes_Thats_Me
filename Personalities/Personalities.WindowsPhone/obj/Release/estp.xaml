@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="Personalities.estp"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Personalities"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#FFF">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock FontSize="43" Foreground="#00394c" Text="ESTP-The Dynamo" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Viewbox Stretch="None" Width="360" Height="500" Grid.Row="1">
+                <Grid Height="500" Width="360">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="10*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Foreground="#F48159" Text="EXTROVERTED" FontSize="13" FontWeight="Bold" Grid.Column="0"/>
+                    <TextBlock Foreground="#51BBD6" Text="   SENSING" FontSize="13" FontWeight="Bold" Grid.Column="1"/>
+                    <TextBlock Foreground="#0C435C" Text=" THINKING" FontSize="13" FontWeight="Bold" Grid.Column="2"/>
+                    <TextBlock Foreground="#FBCE3B" Text=" PERCEIVING" FontSize="13" FontWeight="Bold" Grid.Column="3"/>
+                    <TextBlock HorizontalAlignment="Center"   TextAlignment="Center" Foreground="#aeaeae" Text="Friendly, adaptable, action-oriented. &quot;Doers&quot; who are focused on immediate results. Living in the here-and-now, they're risk-takers who live fast-paced lifestyles. Impatient with long explanations. Extremely loyal to their peers, but not usually respectful of laws and rules if they get in the way of getting things done. Great people skills" FontSize="25" TextWrapping="Wrap" Grid.Row="1" Grid.ColumnSpan="4" />
+                </Grid>
+            </Viewbox>
+        </Grid>
+    </Grid>
+</Page>
+

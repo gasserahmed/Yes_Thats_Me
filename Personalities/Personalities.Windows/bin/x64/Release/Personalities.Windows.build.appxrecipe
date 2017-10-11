@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GASSER</Machine>
+    <WindowsUser>Gasser</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>47309GasserMontaser.YesThatsMe</PackageIdentityName>
+    <IntermediateOutputPath>W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\obj\x64\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\Personalities.Windows.exe">
+      <PackagePath>Personalities.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\8.5.0.5\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML.winmd">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\8.5.0.5\References\CommonConfiguration\neutral\AdDuplex.Universal.Win.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.Win.WinRT.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\8.5.0.5\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\About background.png">
+      <PackagePath>Assets\Assembly logo\About background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly logo\Assembly 5-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\Blue.png">
+      <PackagePath>Assets\Assembly logo\Blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\FBL.png">
+      <PackagePath>Assets\Assembly logo\FBL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\Logo Icon 1.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon 1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\Logo Icon.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\Logo Icon2.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\TL.png">
+      <PackagePath>Assets\Assembly logo\TL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\architect.png">
+      <PackagePath>Assets\architect.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\champion.png">
+      <PackagePath>Assets\champion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\commander.png">
+      <PackagePath>Assets\commander.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\composer.png">
+      <PackagePath>Assets\composer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\counselor.png">
+      <PackagePath>Assets\counselor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\craftsman.png">
+      <PackagePath>Assets\craftsman.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ENFJ.png">
+      <PackagePath>Assets\ENFJ.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ENFP.png">
+      <PackagePath>Assets\ENFP.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ENTJ.png">
+      <PackagePath>Assets\ENTJ.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ENTP.png">
+      <PackagePath>Assets\ENTP.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ESFJ.png">
+      <PackagePath>Assets\ESFJ.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ESFP.png">
+      <PackagePath>Assets\ESFP.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ESTJ.png">
+      <PackagePath>Assets\ESTJ.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ESTP-dynamo.png">
+      <PackagePath>Assets\ESTP-dynamo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ESTP.png">
+      <PackagePath>Assets\ESTP.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\healer.png">
+      <PackagePath>Assets\healer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\INFJ.png">
+      <PackagePath>Assets\INFJ.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\INFP.png">
+      <PackagePath>Assets\INFP.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\INTJ.png">
+      <PackagePath>Assets\INTJ.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\INTP.png">
+      <PackagePath>Assets\INTP.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ISFJ.png">
+      <PackagePath>Assets\ISFJ.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ISFP.png">
+      <PackagePath>Assets\ISFP.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\istj-judging.png">
+      <PackagePath>Assets\istj-judging.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ISTJ.png">
+      <PackagePath>Assets\ISTJ.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ISTP.png">
+      <PackagePath>Assets\ISTP.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\mastermind.png">
+      <PackagePath>Assets\mastermind.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\performer.png">
+      <PackagePath>Assets\performer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\protector.png">
+      <PackagePath>Assets\protector.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\provider.png">
+      <PackagePath>Assets\provider.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\P_logo.png">
+      <PackagePath>Assets\P_logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\supervisor.png">
+      <PackagePath>Assets\supervisor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\teacher.png">
+      <PackagePath>Assets\teacher.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\visionary.png">
+      <PackagePath>Assets\visionary.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\enfj.xbf">
+      <PackagePath>enfj.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\enfp.xbf">
+      <PackagePath>enfp.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\entj.xbf">
+      <PackagePath>entj.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\entp.xbf">
+      <PackagePath>entp.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\esfj.xbf">
+      <PackagePath>esfj.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\esfp.xbf">
+      <PackagePath>esfp.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\estj.xbf">
+      <PackagePath>estj.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\estp.xbf">
+      <PackagePath>estp.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\infj.xbf">
+      <PackagePath>infj.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\infp.xbf">
+      <PackagePath>infp.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\intj.xbf">
+      <PackagePath>intj.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\intp.xbf">
+      <PackagePath>intp.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\isfj.xbf">
+      <PackagePath>isfj.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\isfp.xbf">
+      <PackagePath>isfp.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\istj.xbf">
+      <PackagePath>istj.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\istp.xbf">
+      <PackagePath>istp.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\Personality Test.xbf">
+      <PackagePath>Personality Test.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\Personalities.Windows.xr.xml">
+      <PackagePath>Personalities.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

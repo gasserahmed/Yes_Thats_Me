@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ha-latn"
+"ResourceDimensions"		"language-ha-latn"
+
+[Files]
+"W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\obj\x64\Release\split.language-ha-latn.pri"			"resources.pri"

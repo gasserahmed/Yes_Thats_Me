@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GASSER</Machine>
+    <WindowsUser>Gasser</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>47309GasserMontaser.YesThatsMe</PackageIdentityName>
+    <IntermediateOutputPath>W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DE6D47A915657EF8ACADC6B0E9FDCD365D0C3C0FDE5A842F2F442D10C7E1475D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>47309GasserMontaser.YesThatsMe_1.1.0.9_neutral__884zvdbemjk66</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>47309GasserMontaser.YesThatsMe_884zvdbemjk66!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>47309GasserMontaser.YesThatsMe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D0358DB2-991F-4BCB-AEF6-7C0495E84F3D</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.9</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-17T20:40:29.018</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\Personalities.Windows.exe">
+      <PackagePath>Personalities.Windows.exe</PackagePath>
+      <Modified>2015-02-17T20:40:22.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\8.5.0.5\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML.winmd">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML.winmd</PackagePath>
+      <Modified>2014-08-25T14:23:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\8.5.0.5\References\CommonConfiguration\neutral\AdDuplex.Universal.Win.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.Win.WinRT.winmd</PackagePath>
+      <Modified>2014-08-21T14:49:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T09:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T09:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T09:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\8.5.0.5\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-08-21T14:49:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T09:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T09:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T09:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\About background.png">
+      <PackagePath>Assets\Assembly logo\About background.png</PackagePath>
+      <Modified>2014-10-10T01:28:33.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly logo\Assembly 5-1.png</PackagePath>
+      <Modified>2014-10-10T01:18:43.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\Blue.png">
+      <PackagePath>Assets\Assembly logo\Blue.png</PackagePath>
+      <Modified>2014-10-10T01:18:43.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\FBL.png">
+      <PackagePath>Assets\Assembly logo\FBL.png</PackagePath>
+      <Modified>2014-10-13T02:44:35.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\Logo Icon 1.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon 1.png</PackagePath>
+      <Modified>2014-10-10T01:18:43.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\Logo Icon.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon.png</PackagePath>
+      <Modified>2014-10-10T01:18:43.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\Logo Icon2.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon2.png</PackagePath>
+      <Modified>2014-10-10T01:18:43.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Assembly logo\TL.png">
+      <PackagePath>Assets\Assembly logo\TL.png</PackagePath>
+      <Modified>2014-10-13T02:42:14.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-29T02:14:07.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-29T02:15:57.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-29T02:08:46.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-29T02:09:23.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-29T02:10:12.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-29T02:15:32.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-29T02:13:40.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-29T02:16:24.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-29T02:15:09.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\architect.png">
+      <PackagePath>Assets\architect.png</PackagePath>
+      <Modified>2015-01-28T02:23:45.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\champion.png">
+      <PackagePath>Assets\champion.png</PackagePath>
+      <Modified>2015-01-28T02:17:35.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\commander.png">
+      <PackagePath>Assets\commander.png</PackagePath>
+      <Modified>2015-01-28T02:17:51.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\composer.png">
+      <PackagePath>Assets\composer.png</PackagePath>
+      <Modified>2015-01-28T02:24:08.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\counselor.png">
+      <PackagePath>Assets\counselor.png</PackagePath>
+      <Modified>2015-01-28T02:24:24.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\craftsman.png">
+      <PackagePath>Assets\craftsman.png</PackagePath>
+      <Modified>2015-01-28T02:24:42.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ENFJ.png">
+      <PackagePath>Assets\ENFJ.png</PackagePath>
+      <Modified>2015-01-27T14:35:48.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ENFP.png">
+      <PackagePath>Assets\ENFP.png</PackagePath>
+      <Modified>2015-01-27T14:35:46.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ENTJ.png">
+      <PackagePath>Assets\ENTJ.png</PackagePath>
+      <Modified>2015-01-27T14:35:43.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ENTP.png">
+      <PackagePath>Assets\ENTP.png</PackagePath>
+      <Modified>2015-01-27T14:35:41.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ESFJ.png">
+      <PackagePath>Assets\ESFJ.png</PackagePath>
+      <Modified>2015-01-27T14:35:51.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ESFP.png">
+      <PackagePath>Assets\ESFP.png</PackagePath>
+      <Modified>2015-01-27T14:35:54.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ESTJ.png">
+      <PackagePath>Assets\ESTJ.png</PackagePath>
+      <Modified>2015-01-27T14:35:56.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ESTP-dynamo.png">
+      <PackagePath>Assets\ESTP-dynamo.png</PackagePath>
+      <Modified>2015-01-28T02:25:01.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ESTP.png">
+      <PackagePath>Assets\ESTP.png</PackagePath>
+      <Modified>2015-01-27T14:35:59.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\healer.png">
+      <PackagePath>Assets\healer.png</PackagePath>
+      <Modified>2015-01-27T15:47:47.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\INFJ.png">
+      <PackagePath>Assets\INFJ.png</PackagePath>
+      <Modified>2015-01-27T14:35:07.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\INFP.png">
+      <PackagePath>Assets\INFP.png</PackagePath>
+      <Modified>2015-01-27T14:35:04.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\INTJ.png">
+      <PackagePath>Assets\INTJ.png</PackagePath>
+      <Modified>2015-01-27T14:35:09.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\INTP.png">
+      <PackagePath>Assets\INTP.png</PackagePath>
+      <Modified>2015-01-27T14:35:17.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ISFJ.png">
+      <PackagePath>Assets\ISFJ.png</PackagePath>
+      <Modified>2015-01-27T14:35:22.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ISFP.png">
+      <PackagePath>Assets\ISFP.png</PackagePath>
+      <Modified>2015-01-27T14:34:47.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\istj-judging.png">
+      <PackagePath>Assets\istj-judging.png</PackagePath>
+      <Modified>2015-01-28T02:25:15.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ISTJ.png">
+      <PackagePath>Assets\ISTJ.png</PackagePath>
+      <Modified>2015-01-27T14:35:29.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\ISTP.png">
+      <PackagePath>Assets\ISTP.png</PackagePath>
+      <Modified>2015-01-27T14:35:35.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\mastermind.png">
+      <PackagePath>Assets\mastermind.png</PackagePath>
+      <Modified>2015-01-28T02:25:28.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\performer.png">
+      <PackagePath>Assets\performer.png</PackagePath>
+      <Modified>2015-01-28T02:25:43.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\protector.png">
+      <PackagePath>Assets\protector.png</PackagePath>
+      <Modified>2015-01-28T02:25:56.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\provider.png">
+      <PackagePath>Assets\provider.png</PackagePath>
+      <Modified>2015-01-28T02:26:09.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\P_logo.png">
+      <PackagePath>Assets\P_logo.png</PackagePath>
+      <Modified>2015-01-31T16:37:05.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\supervisor.png">
+      <PackagePath>Assets\supervisor.png</PackagePath>
+      <Modified>2015-01-28T02:26:32.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\teacher.png">
+      <PackagePath>Assets\teacher.png</PackagePath>
+      <Modified>2015-01-28T02:26:50.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\visionary.png">
+      <PackagePath>Assets\visionary.png</PackagePath>
+      <Modified>2015-01-28T02:17:12.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-12-13T22:54:02.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-14T23:04:54.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2015-02-11T22:10:03.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\enfj.xbf">
+      <PackagePath>enfj.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\enfp.xbf">
+      <PackagePath>enfp.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\entj.xbf">
+      <PackagePath>entj.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\entp.xbf">
+      <PackagePath>entp.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\esfj.xbf">
+      <PackagePath>esfj.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\esfp.xbf">
+      <PackagePath>esfp.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\estj.xbf">
+      <PackagePath>estj.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\estp.xbf">
+      <PackagePath>estp.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-02-17T20:40:22.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\infj.xbf">
+      <PackagePath>infj.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\infp.xbf">
+      <PackagePath>infp.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\intj.xbf">
+      <PackagePath>intj.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\intp.xbf">
+      <PackagePath>intp.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\isfj.xbf">
+      <PackagePath>isfj.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\isfp.xbf">
+      <PackagePath>isfp.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\istj.xbf">
+      <PackagePath>istj.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\istp.xbf">
+      <PackagePath>istp.xbf</PackagePath>
+      <Modified>2015-01-28T02:47:14.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\Personality Test.xbf">
+      <PackagePath>Personality Test.xbf</PackagePath>
+      <Modified>2015-02-11T22:34:47.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\Personalities.Windows.xr.xml">
+      <PackagePath>Personalities.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-11T22:28:56.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-17T20:40:23.113</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

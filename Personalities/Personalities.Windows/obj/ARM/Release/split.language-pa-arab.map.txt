@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-pa-arab"
+"ResourceDimensions"		"language-pa-arab-pk"
+
+[Files]
+"W:\Microsoft\Applictaions\Personalities\Personalities\Personalities.Windows\obj\ARM\Release\split.language-pa-arab.pri"			"resources.pri"
